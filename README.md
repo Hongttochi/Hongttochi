@@ -79,7 +79,6 @@ HongSeok Choi
 ### 📊 GitHub Statistics
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hongttochi&show_icons=true&theme=default&include_all_commits=true&hide_border=false" height="170" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=hongttochi&theme=default&hide_border=false&locale=ko" height="170" alt="GitHub Streak" />
 </div>
 
